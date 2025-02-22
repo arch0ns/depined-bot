@@ -1,0 +1,2 @@
+### USING PROTOCOL. ex http:// or socks5://
+USER:PASS@IP:PORT
