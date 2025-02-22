@@ -68,8 +68,6 @@ python3 main.py
 </details>
 
 
-----
-
 ## Support 🆘  
 Contact `Arch0ns` on:  
 <p align="center">
