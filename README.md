@@ -59,7 +59,7 @@ socks5://username:pass@ip:port
 ### 4️⃣ Run Bot
 
 <details>
-<summary>Python Version Of The Script</summary>
+Python
 
 ```bash
 pip -r requirements.txt
