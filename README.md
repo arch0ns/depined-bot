@@ -58,8 +58,7 @@ socks5://username:pass@ip:port
 
 ### 4️⃣ Run Bot
 
-<details>
-Python
+Use Python
 
 ```bash
 pip -r requirements.txt
