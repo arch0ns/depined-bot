@@ -29,7 +29,7 @@ localStorage.getItem('token')
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/FakerPK/depinedbot.git
+git clone https://github.com/arch0ns/depined-bot.git
 cd depinedbot
 ```
 
