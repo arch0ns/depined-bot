@@ -52,8 +52,8 @@ socks5://username:pass@ip:port
 ```
 
 ### 3️⃣ Proxy Setup
-1. Buy [ISP proxies](https://app.proxies.fo/ref/f1353b58-10c4-98a5-d94d-6164e2efcfaf)
-2. Generate SOCKS5 proxies
+1. Buy [Proxies](https://t.me/mhuehe)
+2. Generate proxies
 3. Add them to the proxy file
 
 ### 4️⃣ Run Bot
@@ -67,39 +67,15 @@ python3 main.py
 ```
 </details>
 
-<details>
-<summary><strong>Javascript Version Script</strong></summary>
-
-```java
-npm install
-node index.js
-```
-</details>
 
 ----
-##  **💸Donations**
-If you would like to support me or the development of this projects, you can make a donation using the following addresses:
-- **Solana :**
-```bash
-9SqcZjiUAz9SYBBLwuA9uJG4UzwqC5HNWV2cvXPk3Kro
-```
-- **EVM :**
-```bash
-0x2d550c8A47c60A43F8F4908C5d462184A40922Ef
-```
-- **BTC :**
-```bash
-bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm
-```
-----
+
 ## Support 🆘  
-Contact `FakerPK` on:  
+Contact `Arch0ns` on:  
 <p align="center">
-  <a href="https://t.me/+rurxli5cagplMjM8"><img width="60px" alt="Telegram" src="https://img.icons8.com/fluency/96/0088CC/telegram-app.png"/></a>
-  <a href="https://discord.gg/mjzgatMCk8"><img width="60px" alt="Discord" src="https://img.icons8.com/fluency/96/FFA500/discord-logo.png"/></a> &#8287;
-  <a href="https://medium.com/@FakerPK"><img width="60px" src="https://img.icons8.com/ios-filled/96/F0F0EC/medium-monogram.png" alt="Medium"></a>&#8287;
+  <a href="https://t.me/mhuehe"><img width="60px" alt="Telegram" src="https://img.icons8.com/fluency/96/0088CC/telegram-app.png"/></a>
 </p>
 
 ----
 > **Warning**  
-> ⚠️ Using datacenter proxies will result in **ZERO** earnings! Only use ISP proxies.
+> ⚠️ Using datacenter proxies will result in **ZERO** earnings! Only use ISP/Residential proxies.
