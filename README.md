@@ -1,9 +1,7 @@
 # UPDATED: DePINed Network Automated Farming Bot For 100% Uptime
 ### Automate your connection to the DePINed API with this script. Manage multiple tokens and ensure 24/7 uptime. Join my Discord Server for invite codes.
 
-![AGPL License](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![Node.js](https://img.shields.io/badge/Node.js-16%2B-green)
 
 ## Features 🌟
 * 🔄 Automatic proxy rotation
@@ -11,22 +9,11 @@
 * 🛡️ Cloudflare bypass
 * 📊 SQLite database tracking
 * 🚦 Connection state management
-* 🌈 Colorful console interface
 
 ----
 ## Requirements 📋
 
-#### 🏗️ Infrastructure
 
-- **VPS Server**: AWS/GCP/DigitalOcean ($2-5/month)
-- **ISP Proxies**: **MUST** use residential proxies (SOCKS5 format)
-  - Recommended: [proxies.fo ISP Plan](https://app.proxies.fo/ref/f1353b58-10c4-98a5-d94d-6164e2efcfaf)
-  ![Proxy Setup](https://github.com/user-attachments/assets/c81fc995-11f9-4448-9355-0065d4286cf2)
-
-  ![Proxy Plan](https://github.com/user-attachments/assets/bbd22e0a-22c7-42cf-8608-361d7310e0ae)
-
-<details>
-<summary><strong>💻 Development Environment</strong></summary>
 
 **Choose your language:**
 
